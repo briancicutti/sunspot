@@ -85,7 +85,7 @@ module Sunspot
         def facet(name)
         end
 
-        def dynamic_facet(name)
+        def dynamic_facet(base_name, dynamic_name)
         end
 
         def execute
